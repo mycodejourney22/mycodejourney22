@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mycodejourney22
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Ruby!!!!!!!!!!!!!!!!!!!!!!!
 - 💞️ I’m looking to collaborate on any interesting project with anyone has curious as me
 - 📫 How to reach me ...
 
