@@ -1,13 +1,19 @@
-- 👋 Hi, I’m @mycodejourney22
-- 👀 I have just completed a full-stack web development course at Lewagon
-      London.
-      I worked on projects during the bootcamp where I used Ruby (Rails) ,
-      Javascript, HTML , CSS Bootstrap Skills and also manage our apps.
-      I am looking forward to bring this skill to a new position as a full-stack
-      developer.
-- 🌱 I am currently learning React!!!
-- 💞️ I’m looking to collaborate on any interesting project with anyone has curious as me
-- 📫 How to reach me on linkedin at https://www.linkedin.com/in/afeez-oloyede/
+<h1 align="center">Hi 👋, I'm Afeez</h1>
+<h3 align="center">A passionate full stack developer that lives in London. I recently graduated from Lewagon Bootcamp.</h3>
+
+- 🔭 You can checkout my final project at Lewagon [GymBuddy](www.gymbudy.com)
+
+- 📫 How to reach me **afeezoloyede11@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/@afeez-oloyede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@afeez-oloyede" height="30" width="40" /></a>
+<a href="https://medium.com/@oloyedeafeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oloyedeafeez" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+
 
 <!---
 mycodejourney22/mycodejourney22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
