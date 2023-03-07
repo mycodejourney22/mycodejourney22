@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afeez</h1>
-<h3 align="center">A passionate full stack developer that lives in London. I recently graduated from Lewagon Bootcamp</h3>
 
-- 🔭 You can checkout my final project at Lewagon: [GymBuddy](http://www.gymbudy.com/)
-
-- 📫 How to reach me **afeezoloyede11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
